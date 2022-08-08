@@ -23,11 +23,9 @@ AWS Cloud, Linux, AWS cloud & services, SDLC, Iac, git, ansible, jenkins, monito
 
 University of Jeddah 
 
-
-
 ## Awards
 
-LIST of award
+1st place in business development at 7/7 bootcamp with SAFCSP 
 
 
 ## Occupation
