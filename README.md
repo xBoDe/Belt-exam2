@@ -4,14 +4,14 @@
 Software and DevOps engineer, Cloud architect, Computer science.
 
 <div id="webaddress">
-<a href="chandradeoarya@gmail.com">chandradeoarya@gmail.com</a>
+<a href="AbdullahSQ75@hotmail.com">AbdullahSQ75@hotmail.com</a>
 | <a href="http://chandradeoarya.com">My Tech blog</a>
 </div>
 
 
 ## Currently
-YOUR-JOB/STUDY
-Lead DevOps instructor at Coding Dojo
+
+studying DevOps engineer at Coding Dojo
 
 ### Specialized in
 
@@ -21,7 +21,7 @@ AWS Cloud, Linux, AWS cloud & services, SDLC, Iac, git, ansible, jenkins, monito
 
 ## Education
 
-NAME of your Uni
+University of Jeddah 
 
 
 
@@ -30,18 +30,13 @@ NAME of your Uni
 LIST of award
 
 
-
-## Publications
-
-Gait analysis based human recognition system `April 2016`
-
 ## Occupation
-YOUR-job/study
-`Codingdojo` — Lead DevOps Cloud instructor
+
+`Codingdojo` — DevOps engineer
 
 ## Projects
 
-ANY project
+[Pen plotter](https://twitter.com/UJCCSE/status/1122490916579749888)
 
 <!-- ### Footer
 
