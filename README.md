@@ -1,7 +1,7 @@
 ---
-# YOUR-NAME (eg. Chandra Arya)
-YOUR-introduction
-Eg. Software and DevOps engineer, Cloud architect, Instructor.
+# Abdullah Qobia 
+
+Software and DevOps engineer, Cloud architect, Computer science.
 
 <div id="webaddress">
 <a href="chandradeoarya@gmail.com">chandradeoarya@gmail.com</a>
