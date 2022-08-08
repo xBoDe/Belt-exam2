@@ -5,7 +5,7 @@ Software and DevOps engineer, Cloud architect, Computer science.
 
 <div id="webaddress">
 <a href="AbdullahSQ75@hotmail.com">AbdullahSQ75@hotmail.com</a>
-| <a href="http://chandradeoarya.com">My Tech blog</a>
+| <a href="www.google.com.sa">My Tech blog (soon) </a>
 </div>
 
 
